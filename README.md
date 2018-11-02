@@ -1,4 +1,4 @@
-ensetoSeed Website
+SensetoSeed Website
 
 
 # Description
